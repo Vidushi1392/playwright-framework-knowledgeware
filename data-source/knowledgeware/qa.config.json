@@ -1,0 +1,18 @@
+{
+    "registerPageOne": {
+        "url": "https://knowledgeware.in/final.html",
+        "username": "Vidushi",
+        "password": "Rishabh",
+        "confirmPassword": "Playwright"
+    },
+
+    "registerPageTwo": {
+        "url": "https://knowledgeware.in/reg.html",
+        "firstName": "Playwright",
+        "lastName": "Playwright",
+        "email": "Playwright@gmail.com",
+        "mobile": "1234567890",
+        "gender": "Male"
+
+    }
+}
