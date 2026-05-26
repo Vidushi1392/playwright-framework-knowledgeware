@@ -26,3 +26,14 @@ test ('Web Button Operations', async({page}) => {
     await page.waitForTimeout(6000);
 
 });
+
+/*
+Jenkins for our project:
+
+Jenkins has 5 *pre-requisites for CI/CD pipeline:
+1st * - minute (0-59)
+2nd * - hour (0-23)
+3rd * - day of month (1-31)
+4th * - month (1-12)
+5th * - day of week (0-6) (Sunday(0) to Saturday(6))
+*/
